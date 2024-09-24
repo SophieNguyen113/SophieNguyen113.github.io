@@ -72,6 +72,16 @@ body {
 #navbar li .contact {
   padding-right: 0;
 }
+
+.btn-container {
+  text-align: left;
+}
+
+.btn {
+  display: inline-block;
+  margin-right: 10px;
+}
+
 /* End: Header */
 
 /* Begin: Banner */
