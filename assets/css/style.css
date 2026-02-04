@@ -399,7 +399,7 @@ td {
 }
 
 .program-language .btn:hover > a {
-  box-shadow: 2px 2pxvar (--color-blue);
+  box-shadow: 2px 2px var(--color-blue);
   color: var(--color-blue);
 }
 
